@@ -1,13 +1,13 @@
 ## Hello world, I'm Nguyen Duc Manh - aka nddmanh 👋
 
-<img src="./images/ptit.ico" alt="logo-ptit" width="2%"> I am a 4th-year student of Posts and Telecommunications Institute of Technology.
+<img src="./images/ptit-white.png" alt="logo-ptit" width="2%"> I am a 4th-year student of Posts and Telecommunications Institute of Technology.
 <br>
 <img src="./images/mern2.ico" alt="logo-mern" width="2%"> I have knowledge about MERN stack and have some projects about it.
 <svg>
 
 <!-- [![Website](https://img.shields.io/website?down_message=Offline&label=nddmanh.com&style=flat-square&logo=google-chrome&logoColor=white&up_message=Online&url=https%3A%2F%2Fnddmanh.com)](https://nddmanh.com) -->
 
-<!-- [![CV Online](https://img.shields.io/website?&label=CV+online&style=flat-square&logo=ghostery&logoColor=white&up_message=Online&url=https%3A%2F%2Fnddmanh.github.io)](https://cv.nddmanh.com) -->
+[![CV Online](https://img.shields.io/static/v1?label=CV+online&message=Online&color=brightgreen&logo=brave&logoColor=white&up_message=Online&style=flat-square)](https://nddmanh.github.io)
 
 <!-- [![Facebook: nddmanh](https://img.shields.io/website?&label=Facebook&style=flat-square&logo=facebook&logoColor=white&up_message=Online&url=https%3A%2F%2Ffacebook.com/nddmanh)](https://www.facebook.com/nddmanh/) -->
 
