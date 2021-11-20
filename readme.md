@@ -9,7 +9,7 @@
 
 [![Linkedin: nddmanh](https://img.shields.io/static/v1?label=Linkedin&message=Online&color=brightgreen&logo=linkedin&logoColor=white&up_message=Online&style=flat-square)](https://www.linkedin.com/in/nddmanh/)
 
-[![CV Online](https://img.shields.io/static/v1?label=CV+online&message=Online&color=brightgreen&logo=brave&logoColor=white&up_message=Online&style=flat-square)](https://nddmanh.github.io)
+<!-- [![CV Online](https://img.shields.io/static/v1?label=CV+online&message=Online&color=brightgreen&logo=brave&logoColor=white&up_message=Online&style=flat-square)](https://nddmanh.github.io) -->
 
 <!-- [![Facebook: nddmanh](https://img.shields.io/website?&label=Facebook&style=flat-square&logo=facebook&logoColor=white&up_message=Online&url=https%3A%2F%2Ffacebook.com/nddmanh)](https://www.facebook.com/nddmanh/) -->
 
