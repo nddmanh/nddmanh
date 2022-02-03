@@ -9,7 +9,7 @@
 
 [![Linkedin: nddmanh](https://img.shields.io/static/v1?label=Linkedin&message=Online&color=brightgreen&logo=linkedin&logoColor=white&up_message=Online&style=flat-square)](https://www.linkedin.com/in/nddmanh/)
 
-[![CV Online](https://img.shields.io/static/v1?label=CV+online&message=Online&color=brightgreen&logo=brave&logoColor=white&up_message=Online&style=flat-square)](https://nddmanh.github.io)
+<!-- [![CV Online](https://img.shields.io/static/v1?label=CV+online&message=Online&color=brightgreen&logo=brave&logoColor=white&up_message=Online&style=flat-square)](https://nddmanh.github.io) -->
 
 <!-- [![Facebook: nddmanh](https://img.shields.io/website?&label=Facebook&style=flat-square&logo=facebook&logoColor=white&up_message=Online&url=https%3A%2F%2Ffacebook.com/nddmanh)](https://www.facebook.com/nddmanh/) -->
 
@@ -47,7 +47,6 @@
   
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  
   <br/>
 
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
