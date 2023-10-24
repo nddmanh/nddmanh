@@ -1,8 +1,8 @@
 ## Hello world, I'm Nguyen Duc Manh - aka nddmanh 👋
 
-<img src="./images/ptit-white.png" alt="logo-ptit" width="2%"> I am a 4th-year student of Posts and Telecommunications Institute of Technology.
+<img src="./images/ptit-white.png" alt="logo-ptit" width="2%"> A backend developer with 2 years of experience, specializing in NestJS and TypeScript.
 <br>
-<img src="./images/mern2.ico" alt="logo-mern" width="2%"> I have knowledge about MERN stack and have some projects about it.
+<img src="./images/mern2.ico" alt="logo-mern" width="2%"> Additionally, I have proficiency in frontend development using ReactJS and NextJS.
 <svg>
 
 <!-- [![Website](https://img.shields.io/website?down_message=Offline&label=nddmanh.com&style=flat-square&logo=google-chrome&logoColor=white&up_message=Online&url=https%3A%2F%2Fnddmanh.com)](https://nddmanh.com) -->
