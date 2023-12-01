@@ -1,8 +1,8 @@
 ## Hello world, I'm Nguyen Duc Manh - aka nddmanh 👋
 
-<img src="./images/ptit-white.png" alt="logo-ptit" width="2%"> A backend developer with 2 years of experience, specializing in NestJS and TypeScript.
+A backend developer with 2 years of experience, specializing in NestJS and TypeScript.
 <br>
-<img src="./images/mern2.ico" alt="logo-mern" width="2%"> Additionally, I have proficiency in frontend development using ReactJS and NextJS.
+Additionally, I have proficiency in frontend development using ReactJS and NextJS.
 <svg>
 
 <!-- [![Website](https://img.shields.io/website?down_message=Offline&label=nddmanh.com&style=flat-square&logo=google-chrome&logoColor=white&up_message=Online&url=https%3A%2F%2Fnddmanh.com)](https://nddmanh.com) -->
@@ -21,7 +21,7 @@
 * Frontend: [![ReactJS: nddmanh](https://img.shields.io/badge/ReactJS-61dafb?style=flat-square&logo=react&logoColor=black)](https://github.com/nddmanh)
 
 <!-- <br /><br /><br /> -->
-<hr>
+<!-- <hr>
 <div align="center">
   <br>
 
@@ -51,7 +51,7 @@
 
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
+</div> -->
 
 <hr>
 
