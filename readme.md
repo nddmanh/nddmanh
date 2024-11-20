@@ -1,6 +1,6 @@
 ## Hello world, I'm Nguyen Duc Manh - aka nddmanh 👋
 
-A backend developer with more 3 years of experience, specializing in NestJS and TypeScript.
+A backend developer with more than 3 years of experience, specializing in NestJS and TypeScript.
 <br>
 Additionally, I have proficiency in frontend development using ReactJS and NextJS.
 <svg>
